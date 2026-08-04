@@ -1,0 +1,60 @@
+ Key Features
+1. Employee Management
+Registration: Add new employees with complete details including name, email, department, designation, and salary
+
+Employee List: View, search, and manage all employee records
+
+Edit/Delete: Update employee information or remove records as needed
+
+Status Tracking: Monitor employee status (Active, Inactive, On Leave)
+
+2. Department & Designation Management
+Organize employees by departments (Engineering, Marketing, HR, Finance, etc.)
+
+Assign and manage job roles/designations
+
+Hierarchical organizational structure
+
+3. Attendance Management
+Mark daily attendance for all employees
+
+Track present/absent status
+
+View monthly attendance summary
+
+Quick actions to mark all present or mark leave
+
+4. Leave Management
+Apply for leave
+
+Approve/Reject leave requests
+
+View leave history and status
+
+5. Salary & Payroll Processing
+Salary Components: Basic Pay, HRA, DA, Bonus, Deductions
+
+Automatic Calculation: System automatically calculates net salary
+
+Payroll Processing: Generate monthly payroll records with one click
+
+Payroll Summary: View gross payroll and net pay totals
+
+6. Payslip Generation
+Display individual employee payslips
+
+Download/Print payslips
+
+Detailed breakdown of salary components
+
+7. Dashboard & Reports
+Statistics Dashboard: Total employees, total salary, present today, on leave
+
+Recent Employees: Quick view of recent employee additions
+
+Attendance Reports: Track attendance patterns
+
+Payroll Reports: Generate salary reports
+
+🏗️ System Architecture
+Technology Stack
